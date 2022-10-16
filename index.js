@@ -8,7 +8,7 @@ function myFunction() {
 }
 
 function pdf() {
-    window.open('files/portfolio.pdf')
+    window.open('./images/CV.pdf')
 }
 
 
